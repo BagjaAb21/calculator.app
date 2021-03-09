@@ -9,7 +9,7 @@ namespace kalkulator
         {
             Console.Title = "Aplikasi Calculator sederhana";
 
-            Console.WriteLine("Pilih Menu Kalkulator");
+            Console.WriteLine("Menu kalkulator");
             Console.WriteLine();
 
             Console.WriteLine("1. Perkalian");
